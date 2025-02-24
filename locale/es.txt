@@ -1,0 +1,95 @@
+#: locale=es
+
+## Acción
+
+### PDF
+PopupPDFBehaviour_61BEFAD5_288F_5E0E_41BC_EE13164ADD2B.url = files/herbario-rootbark_tripa-FINAL%202_es.pdf
+
+### URL
+LinkBehaviour_5F2E4501_2995_2A06_41BE_82BF0F91CA45.source = http://www.loremipsum.com
+LinkBehaviour_7B0E0E87_2895_360A_41AB_AE26A87C8BB3.source = https://maps.app.goo.gl/yY7v4Gv51HzQD6G18?g_st=com.google.maps.preview.copy
+LinkBehaviour_73CB1EF7_28FF_560A_41B3_9740AE62EA63.source = https://maps.app.goo.gl/yY7v4Gv51HzQD6G18?g_st=com.google.maps.preview.copy
+LinkBehaviour_649626F4_288D_760E_41AB_1A933776F7E6.source = https://www.instagram.com/laura.ventoso?igsh=MTU1amt1NTM0NXlk
+LinkBehaviour_655521F8_2775_EA06_41BD_93BCC4BEEFC4.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
+LinkBehaviour_649D3A57_2775_5E0A_41A1_2E71400CB553.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
+
+## Media
+
+### Audio
+audiores_98357DF4_3B19_33B4_41CA_8E2D37A400D9.mp3Url = media/audio_99F25A42_3B1B_70CC_41A7_0B834ABCCF54_es.mp3
+
+### Imágen
+imlevel_045AA4FC_3953_87FC_41C7_EE51D9697010.url = media/popup_64879535_2795_2A0E_41B0_DEB3F37D99E1_es_0_0.webp
+imlevel_045AE4FC_3953_87FC_41C3_B6323A684B45.url = media/popup_64879535_2795_2A0E_41B0_DEB3F37D99E1_es_0_1.webp
+imlevel_045A64FC_3953_87FC_41B1_1DABE7675135.url = media/popup_64879535_2795_2A0E_41B0_DEB3F37D99E1_es_0_2.webp
+imlevel_0477A6B0_3953_8204_41CA_9D21B4615748.url = media/popup_6E8AF965_277F_5A0E_4196_088ADFE307F8_es_0_0.webp
+imlevel_0475A6B0_3953_8204_41B6_F313327F598B.url = media/popup_6E8AF965_277F_5A0E_4196_088ADFE307F8_es_0_1.webp
+imlevel_0475E6B0_3953_8204_41BF_F93FC02E17B8.url = media/popup_6E8AF965_277F_5A0E_4196_088ADFE307F8_es_0_2.webp
+
+### Popup Imágen
+
+### Subtítulos de Audio
+
+### Título
+panorama_01F1D25C_277D_2E3E_418D_0B91D950F82C.label = 1
+panorama_01CD472E_277F_361A_4198_62D864EA8E48.label = 10
+panorama_01CD0F11_277F_3606_41B7_D9CEF6C5AD58.label = 11
+panorama_01C29F26_277C_D60A_41B9_D28989C87638.label = 12
+panorama_01C3FEA3_277C_D60A_417E_76266BE88479.label = 13
+panorama_01C1246B_277D_6A1A_41BB_15FE64949EED.label = 14
+panorama_01C1F38E_277D_6E1A_41B5_BA9F6EE6197A.label = 15
+panorama_01C1ABC4_277D_7E0E_41C0_2BA9A8BEDB66.label = 2
+panorama_0D7B812C_277F_2A1E_41B9_55430188905D.label = 3
+panorama_01CD48F0_277F_3A06_41B6_ACD8B63190A8.label = 4
+panorama_01CCD0BD_277F_2A7E_4188_75B66B3C987D.label = 5
+panorama_01CC98AE_277F_5A1A_41AC_56F06C88C9B6.label = 6
+panorama_01CC281B_277F_7A3A_41AA_F7B23244B7DF.label = 7
+panorama_01CC302D_277F_6A1E_41B2_13314E12355C.label = 8
+panorama_01CDBFD6_277F_560A_41B5_BE8BDE3AA84D.label = 9
+photo_65A8059A_279F_2A3A_41B3_7930493E27F7.label = RootBark EtnoBrunch - Matterport 3D Showcase
+
+## Skin
+
+### Botón
+Button_5972DE07_39D5_820C_41A7_D959E75258F3.label = CONTACTO INFO 
+Button_4E439525_288B_2A0E_41C0_409CBE7F4F01.label = RESERVA AHORA
+Button_59351560_29B5_2A06_41B1_B42259E33CDE.label = RESERVAS
+
+### Etiqueta
+Label_A93418F7_2894_DA0A_41BB_4D85F85CB08D.text = INFORMACION
+Label_6071ACC3_2895_7A0A_41B4_B3A0C58407C6_mobile.text = Restaurante Vejetariano
+Label_6071ACC3_2895_7A0A_41B4_B3A0C58407C6.text = Restaurante Vejetariano
+Label_60716CC3_2895_7A0A_41B7_247991B4A91F.text = RooTbark EtnoBrunch
+Label_60716CC3_2895_7A0A_41B7_247991B4A91F_mobile.text = RooTbark EtnoBrunch
+
+### Imágen
+Image_5C19B28A_298D_EE1A_41B8_8F46EFD38DA4.url = skin/Image_5C19B28A_298D_EE1A_41B8_8F46EFD38DA4_es.jpg
+Image_62E27D41_289D_5A06_41C0_38E7BC8C4800.url = skin/Image_62E27D41_289D_5A06_41C0_38E7BC8C4800_es.jpg
+Image_62E27D41_289D_5A06_41C0_38E7BC8C4800_mobile.url = skin/Image_62E27D41_289D_5A06_41C0_38E7BC8C4800_mobile_es.jpg
+Image_7320EECB_288B_761A_41C1_E788859EA8DC.url = skin/Image_7320EECB_288B_761A_41C1_E788859EA8DC_es.png
+Image_7320EECB_288B_761A_41C1_E788859EA8DC_mobile.url = skin/Image_7320EECB_288B_761A_41C1_E788859EA8DC_mobile_es.png
+
+### Texto Multilínea
+HTMLText_59355560_29B5_2A06_41B4_3FAA620EC45C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.0512820512820515vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.05vh;font-family:'Antonio';"><B>DESCRIPCIÓN:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">El EtnoBrunch de RootBark.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Desayunos, brunch y comidas. Gastronomía</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">internacional vegetariana, sostenible y ecológica a precios muy accesibles. Herbal lounge. Lattes exóticos. Café de especialidad. Repostería vegana.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Muchas opciones sin gluten.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Desayunos desde las 9 de la mañana. Comidas variadas. Bowls de ensaladas frias y templadas, curry, shakshukas...</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Ecológico. Orgánico. Bio.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.700000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:3.7vh;font-family:'Antonio';"><B>CONTACTO:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> </SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">rrotbarketnobrunh@mail.com</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Web: </SPAN><SPAN STYLE="font-size:1.56vh;font-family:'Open Sans Semibold';">RootBark EtnoBrunch</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Tlf.:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> </SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">886131323</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> </SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Pai Crespo 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Address </SPAN><SPAN STYLE="color:#999999;font-size:1.56vh;font-family:'Open Sans Semibold';">Redondela Pontevedra.36800</SPAN></SPAN></DIV></div>
+HTMLText_4E435525_288B_2A0E_41BF_BA6B8F0130AF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.2951289398280803vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:3.3vh;font-family:'Antonio';"><B>Descripción:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">El EtnoBrunch de RootBark.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Desayunos, brunch y comidas. Gastronomía</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">internacional vegetariana, sostenible y ecológica a precios muy accesibles. Herbal lounge. Lattes exóticos. Café de especialidad. Repostería vegana.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Muchas opciones sin gluten.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Desayunos desde las 9 de la mañana. Comidas variadas. Bowls de ensaladas frias y templadas, curry, shakshukas...</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Ecológico. Orgánico. Bio.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.722063037249284vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.72vh;font-family:'Antonio';"><B>CONTACTO:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">E-mail:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> rrotbarketnobrunh@mail.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Web: RootBark EtnoBrunch</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Tlf.:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';"> 886131323</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.74vh;font-family:'Open Sans Semibold';">Address:</SPAN><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Pai Crespo 6</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7399999999999989vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.74vh;font-family:'Open Sans Semibold';">Address Redondela Pontevedra.36800</SPAN></SPAN></DIV></div>
+HTMLText_590AD560_29B5_2A06_41BF_412253571796.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.564102564102564vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.56vh;font-family:'Otama.ep';">CONTACTO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.564102564102564vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.56vh;font-family:'Otama.ep';">INFORMACION</SPAN></SPAN></DIV></div>
+HTMLText_4E4C1525_288B_2A0E_4169_09D69BDD7333.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.2951289398280803vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.3vh;font-family:'Otama.ep';">CONTACTO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.2951289398280803vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.3vh;font-family:'Otama.ep';"><B>INFO</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+Image_7320EECB_288B_761A_41C1_E788859EA8DC.toolTip = Direccioón
+Image_7320EECB_288B_761A_41C1_E788859EA8DC_mobile.toolTip = Direccioón
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Rootbark Redondela 1
+
+## Ventana
+
+### Cuerpo
+htmlText_637F3722_279B_D60A_41A1_06E16A6F0E61.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Las plataformas salva escaleras están diseñadas para que las personas que se desplazan en silla de ruedas puedan subir y bajar las escaleras con total autonomía.</SPAN></DIV></BODY></HTML></div>
+
+### Título
+window_637DB722_279B_D60A_41BA_03E22FEC8CA9.title = Plataforma elevadora
