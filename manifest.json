@@ -1,5 +1,4 @@
 {
- "theme_color": "#FFFFFF",
  "start_url": "index.html?installed=true",
  "icons": [
   {
@@ -38,7 +37,8 @@
    "sizes": "180x180"
   }
  ],
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "name": "Rootbark Redondela 1",
- "background_color": "#FFFFFF"
+ "name": "Rootbark Redondela 1"
 }
