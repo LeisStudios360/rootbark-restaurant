@@ -7,15 +7,20 @@ PopupPDFBehaviour_61BEFAD5_288F_5E0E_41BC_EE13164ADD2B.url = files/herbario-root
 
 ### URL
 LinkBehaviour_5F2E4501_2995_2A06_41BE_82BF0F91CA45.source = http://www.loremipsum.com
-LinkBehaviour_7B0E0E87_2895_360A_41AB_AE26A87C8BB3.source = https://maps.app.goo.gl/yY7v4Gv51HzQD6G18?g_st=com.google.maps.preview.copy
 LinkBehaviour_73CB1EF7_28FF_560A_41B3_9740AE62EA63.source = https://maps.app.goo.gl/yY7v4Gv51HzQD6G18?g_st=com.google.maps.preview.copy
-LinkBehaviour_649626F4_288D_760E_41AB_1A933776F7E6.source = https://www.instagram.com/laura.ventoso?igsh=MTU1amt1NTM0NXlk
-LinkBehaviour_655521F8_2775_EA06_41BD_93BCC4BEEFC4.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
+LinkBehaviour_7B0E0E87_2895_360A_41AB_AE26A87C8BB3.source = https://maps.app.goo.gl/yY7v4Gv51HzQD6G18?g_st=com.google.maps.preview.copy
+LinkBehaviour_AB2C1E5E_963E_8977_41D8_C513B73D31B9.source = https://www.instagram.com/laura.ventoso?igsh=MTU1amt1NTM0NXlk
+LinkBehaviour_AE5B0135_9632_7B35_41D4_ED5E490944B3.source = https://www.instagram.com/laura.ventoso?igsh=MTU1amt1NTM0NXlk
+LinkBehaviour_AB7CFF94_9632_87CB_41C5_4811E10AC192.source = https://www.instagram.com/laura.ventoso?igsh=MTU1amt1NTM0NXlk
 LinkBehaviour_649D3A57_2775_5E0A_41A1_2E71400CB553.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
+LinkBehaviour_655521F8_2775_EA06_41BD_93BCC4BEEFC4.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
 
 ## Hotspot
 
 ### Tooltip
+HotspotPanoramaOverlayArea_AB20DE5D_963E_8975_41B4_89FED043EEB6.toolTip = Laura Artesana
+HotspotPanoramaOverlayArea_AB7A7F93_9632_87CD_41D2_75124009855B.toolTip = Laura Artesana
+HotspotPanoramaOverlayArea_A007D883_9637_89CD_41D3_14FDD0465673.toolTip = Laura Artesana
 HotspotPanoramaOverlayArea_ACDDEE9C_95E6_30BD_41DF_B0BAE8541754.toolTip = Que ilusión nos hace!
 HotspotPanoramaOverlayArea_A052E7E0_95E6_3085_41B1_D74F57981534.toolTip = Que ilusión nos hace!
 HotspotPanoramaOverlayArea_A83886F9_95E2_7087_41E1_91214275212F.toolTip = Que ilusión nos hace!
