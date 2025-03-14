@@ -13,6 +13,13 @@ LinkBehaviour_649626F4_288D_760E_41AB_1A933776F7E6.source = https://www.instagra
 LinkBehaviour_655521F8_2775_EA06_41BD_93BCC4BEEFC4.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
 LinkBehaviour_649D3A57_2775_5E0A_41A1_2E71400CB553.source = https://www.instagram.com/rootbark_etnobrunch_?igsh=MTgxaWQxZDczbHNieg==
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_ACDDEE9C_95E6_30BD_41DF_B0BAE8541754.toolTip = Que ilusión nos hace!
+HotspotPanoramaOverlayArea_A052E7E0_95E6_3085_41B1_D74F57981534.toolTip = Que ilusión nos hace!
+HotspotPanoramaOverlayArea_A83886F9_95E2_7087_41E1_91214275212F.toolTip = Que ilusión nos hace!
+
 ## Media
 
 ### Audio
@@ -46,6 +53,7 @@ panorama_01CC98AE_277F_5A1A_41AC_56F06C88C9B6.label = 6
 panorama_01CC281B_277F_7A3A_41AA_F7B23244B7DF.label = 7
 panorama_01CC302D_277F_6A1E_41B2_13314E12355C.label = 8
 panorama_01CDBFD6_277F_560A_41B5_BE8BDE3AA84D.label = 9
+photo_A883481F_95ED_FFBB_41DF_A505008AC6A5.label = IMG_1456
 photo_65A8059A_279F_2A3A_41B3_7930493E27F7.label = RootBark EtnoBrunch - Matterport 3D Showcase
 
 ## Skin
@@ -89,6 +97,12 @@ tour.name = Rootbark Redondela 1
 
 ### Cuerpo
 htmlText_637F3722_279B_D60A_41A1_06E16A6F0E61.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Las plataformas salva escaleras están diseñadas para que las personas que se desplazan en silla de ruedas puedan subir y bajar las escaleras con total autonomía.</SPAN></DIV></BODY></HTML></div>
+htmlText_D7ABBBB6_9626_108D_41C2_5CC861C65188.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Que ilusión nos hace! ya están aquí dos de nuestros Rootbark Lattes en formato de 40g para que os los llevéis para preparar en casa o para regalar, MATCHA latte de grado ceremonial "Hisui" de agricultura ecológica y ROSA latte, delicado y calmante (también ecológico) Ven a por ellos al Rootbark.</SPAN></DIV></BODY></HTML></div>
+htmlText_AB993348_95EE_1185_41C3_5E9CFF1FB2F1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Que ilusión nos hace! ya están aquí dos de nuestros Rootbark Lattes en formato de 40g para que os los llevéis para preparar en casa o para regalar, MATCHA latte de grado ceremonial "Hisui" de agricultura ecológica y ROSA latte, delicado y calmante (también ecológico) Ven a por ellos al Rootbark.</SPAN></DIV></BODY></HTML></div>
+htmlText_D5FB6373_9626_318B_41D0_F6ACC80C6CD2.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Que ilusión nos hace! ya están aquí dos de nuestros Rootbark Lattes en formato de 40g para que os los llevéis para preparar en casa o para regalar, MATCHA latte de grado ceremonial "Hisui" de agricultura ecológica y ROSA latte, delicado y calmante (también ecológico) Ven a por ellos al Rootbark.</SPAN></DIV></BODY></HTML></div>
 
 ### Título
 window_637DB722_279B_D60A_41BA_03E22FEC8CA9.title = Plataforma elevadora
+window_D7A97BB5_9626_108F_41AB_41A33BAB7695.title = Que ilusión nos hace! 
+window_AB99B348_95EE_1185_41E2_89F94DE74E90.title = Que ilusión nos hace! 
+window_D5FE6373_9626_318B_41D8_C351134CC40F.title = Que ilusión nos hace! 
